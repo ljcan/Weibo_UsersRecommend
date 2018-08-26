@@ -1,0 +1,2 @@
+# Weibo_UsersRecommend
+使用Spark GraphX基于PageRank算法构建一个仿微博用户好友的分布式推荐系统。

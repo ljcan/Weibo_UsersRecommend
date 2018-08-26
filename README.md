@@ -3,7 +3,7 @@
 
 项目介绍以及说明：
 
-[仿微博用户推荐实现分布式推荐系统](https://blog.csdn.net/qq_37142346)
+[构建分布式微博好友推荐系统](https://blog.csdn.net/qq_37142346/article/details/82079374)
 
 ## 注意事项
 
